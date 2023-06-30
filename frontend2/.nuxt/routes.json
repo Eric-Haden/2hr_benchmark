@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Mapbox",
+    "path": "/Mapbox",
+    "component": "C:\\\\Users\\\\erichaden\\\\Desktop\\\\test2\\\\frontend2\\\\pages\\\\Mapbox.vue",
+    "chunkName": "pages/Mapbox"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\erichaden\\\\Desktop\\\\test2\\\\frontend2\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
